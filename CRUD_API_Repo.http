@@ -1,0 +1,6 @@
+@CRUD_API_Repo_HostAddress = http://localhost:5201
+
+GET {{CRUD_API_Repo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
